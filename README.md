@@ -1,3 +1,37 @@
+## Mitigation Web
+
+Mitigation Web is an online platform designed to assist individuals, communities, and organizations in understanding, identifying, and reducing disaster-related risks. The primary goal of Mitigation Web is to enhance community preparedness and minimize the negative impacts of natural disasters or other unwanted events.
+
+## ## steps for those who collaborate to upload
+
+1. Git Clone 
+```bash
+git clone https://github.com/Affnsyhr/Mitigasi-Web.git
+```
+2. Go to The Folder Project
+```bash
+cd Mitigasi-Web
+```
+3. Create new branch 
+```bash
+git checkout -b nama-branch
+```
+4. Do the changes for the code 
+```bash
+git add .
+```
+5. Submit the code
+```bash
+git commit -m "Deskripsi perubahan yang Anda lakukan"
+```
+6. Submit the code to github
+```bash
+git push origin nama-branch
+```
+
+## Tech Stack 
+JavaScript 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -16,12 +50,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-`npm test`
+```bash 
+npm test
+```
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+```bash
+ npm run build
+```
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -30,8 +68,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
+```bash
+npm run eject
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
