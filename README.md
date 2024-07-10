@@ -2,7 +2,7 @@
 
 Mitigation Web is an online platform designed to assist individuals, communities, and organizations in understanding, identifying, and reducing disaster-related risks. The primary goal of Mitigation Web is to enhance community preparedness and minimize the negative impacts of natural disasters or other unwanted events.
 
-## ## steps for those who collaborate to upload
+##steps for those who collaborate to upload
 
 1. Git Clone 
 ```bash
